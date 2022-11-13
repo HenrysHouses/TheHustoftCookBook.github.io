@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://example.org/tags/chicken/</loc>
+    <lastmod>2022-11-13T14:50:34+01:00</lastmod>
+  </url><url>
     <loc>http://example.org/recipe/chickencurry/</loc>
     <lastmod>2022-11-13T14:50:34+01:00</lastmod>
   </url><url>
+    <loc>http://example.org/tags/curry/</loc>
+    <lastmod>2022-11-13T14:50:34+01:00</lastmod>
+  </url><url>
     <loc>http://example.org/recipe/</loc>
+    <lastmod>2022-11-13T14:50:34+01:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/rice/</loc>
+    <lastmod>2022-11-13T14:50:34+01:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
     <lastmod>2022-11-13T14:50:34+01:00</lastmod>
   </url><url>
     <loc>http://example.org/recipe/test/</loc>
@@ -15,7 +27,5 @@
     <lastmod>2022-11-13T14:50:34+01:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/</loc>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
   </url>
 </urlset>
